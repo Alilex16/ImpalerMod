@@ -1,0 +1,81 @@
+{
+	"Sending":{
+		"NAME": "Sending",
+		"FLAVOR": "\"A dancing ritual, to guide their souls to the afterlife.\" - Yuna",
+		"DESCRIPTIONS":["Whenever an enemy dies, gain #b1 #ySpirit."]
+	},
+	"TheBloodborne":{
+		"NAME": "The Bloodborne",
+		"FLAVOR": "\"Interesting! It always seems to find its way to the enemy.\" - Darwin",
+		"DESCRIPTIONS":["Whenever an enemy dies, transfer any #yBleeding it has to a random enemy."]
+	},
+	"LizardSkull":{
+		"NAME": "Lizard Skull",
+		"FLAVOR": "A Lizard skull in undetermined condition. Extremely dirty and pointy, cannot be cleaned inexplicably.",
+		"DESCRIPTIONS":[
+			"Whenever you apply #yBleeding, apply an additional #b",
+			" #yBleeding."]
+	},
+	"Condenser":{
+		"NAME": "Condenser",
+		"FLAVOR": "Turns all that fantastic energy into something more amazing.",
+		"DESCRIPTIONS":[
+			"Whenever an enemy gains a #yBuff, you gain #b",
+			" #ySpirit."]
+	},
+	"RecycleBin":{
+		"NAME": "Recycle Bin",
+		"FLAVOR": "Stop the pollution, save the planet!",
+		"DESCRIPTIONS":[
+			"At the end of your turn, for every [R] not spent, gain #b",
+			" HP."]
+	},
+	"BleedingEnergy":{
+		"NAME": "Bleeding Energy",
+		"FLAVOR": "\"I want to share some energy efficiency that makes no sense.\" - Michael",
+		"DESCRIPTIONS":[
+			"Gain 1 [R] at the start of each turn. HP costs of #yBloody cards are",
+			" doubled."]
+	},
+	"Haemophilia":{
+		"NAME": "Haemophilia",
+		"FLAVOR": "The flow of life is never-ending.",
+		"DESCRIPTIONS":[
+			"#yBleeding no longer reduces each turn."]
+	},
+	"BigNose":{
+		"NAME": "Big Nose",
+		"FLAVOR": "\"Unreal ... When is the last time you took a bath?\" - Big Bad Wolf",
+		"DESCRIPTIONS":[
+			"At the start of each turn, gain #b",
+			" #yStrength for each enemy at or below #b50% HP."]
+	},
+	"PrayerBeads":{
+		"NAME": "Prayer Beads",
+		"FLAVOR": "These will help when talking to walls and listening to voices in your head.",
+		"DESCRIPTIONS":[
+			"You can now gain ",
+			"#ySpirit at #yRest #ySites. (3 times max)"]
+	},
+	"Bloodshield":{
+		"NAME": "Bloodshield",
+		"FLAVOR": "\"Who said blood couldn't be used defensively?\" - Vladimir ",
+		"DESCRIPTIONS":["At the start of combat, gain #yBloodshield."]
+	},
+	"CrimsonAmulet":{
+		"NAME": "Crimson Amulet",
+		"FLAVOR": "\"Some like it bloody.\" - Marilyn ",
+		"DESCRIPTIONS":["Amount of #yBlock gained from #yBloodshield is increased by #b50%."]
+	},
+	"BookOfTheLiving": {
+		"NAME": "Book of the Living",
+		"FLAVOR": "A book containing a loose collection of texts, consisting of Spells intended to assist a person through the least important journey: Life.",
+		"DESCRIPTIONS": [
+			"For every 2 #yBloody cards in your deck, start each combat with #b",
+			" #yRegeneration.",
+			" NL You do not have enough #yBloody cards.",
+			" NL You have #g",
+			" #yBloody cards."
+		]
+	}
+}
