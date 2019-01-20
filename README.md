@@ -11,6 +11,6 @@ Total of 82 new cards:
 
 2 potions
 
-12 relics
+11 relics
 
 
